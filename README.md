@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Me llamo Jesús Sánchez</h1>
-<h3 align="center">Soy un Junior Full Stack Developer</h3>
+<h1 align="center">Hola 🌍, soy Jesús Sánchez</h1>
+<h3 align="center"> Junior Full Stack Developer</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js, Reactjs.**
 
